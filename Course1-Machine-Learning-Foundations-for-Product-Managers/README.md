@@ -2,16 +2,10 @@
 
 ## Why Take This Course?
 
-• Companies across every industry are using
-AI to make their products or services more
-predictive, personalized and automated
-• AI is also creating the ability to solve
-previously unsolved problems
-• Successfully bringing AI products to market
-requires a team effort
-• Everyone needs to speak the same
-language and have the same fundamental
-understanding
+- Companies across every industry are using AI to make their products or services more predictive, personalized and automated
+- AI is also creating the ability to solve previously unsolved problems
+- Successfully bringing AI products to market requires a team effort
+- Everyone needs to speak the same language and have the same fundamental understanding
 
 ## Course Learning Objectives
 
@@ -28,12 +22,12 @@ At the conclusion of this course, you should be able to:
 ## Course Outline
 
 Modules:
-1 What is machine learning?
-2 The modeling process
-3 Evaluating and interpreting models
-4 Linear models for regression & classification
-5 Tree models, ensembles, and clustering
-6 Deep learning
+1. What is machine learning?
+2. The modeling process
+3. Evaluating and interpreting models
+4. Linear models for regression & classification
+5. Tree models, ensembles, and clustering
+6. Deep learning
 
 ## Instructor:
 
